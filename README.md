@@ -1,2 +1,11 @@
-# techs-up
-[ HTML / CSS / JAVASCRIPT ] A functional product page with the theme of a language school. It features different course options, some resources, a short bio of the teacher and contact information.
+# Tech's-Up (Language School)
+
+<strong>[ HTML / CSS / JAVASCRIPT ]</strong>
+<br><br>
+<strong>[EN]</strong>
+<br>
+A quite functional product page with the theme of a language school. It features different course options, some resources, a short bio of the teacher and contact information.
+<br><br>
+<strong>[POR]</strong>
+<br>
+Uma página de produto bem funcional com o tema de uma escola de idiomas. Apresenta diferentes opções de cursos, alguns recursos, uma breve biografia do professor e informações de contato.
