@@ -9,3 +9,5 @@ A quite functional product page with the theme of a language school. It features
 <strong>[POR]</strong>
 <br>
 Uma página de produto bem funcional com o tema de uma escola de idiomas. Apresenta diferentes opções de cursos, alguns recursos, uma breve biografia do professor e informações de contato.
+<br><br>
+![techs-up](https://user-images.githubusercontent.com/108018406/175559018-385e17c1-efe8-4992-9cf2-ce6f6e7fd749.png)
