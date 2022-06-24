@@ -1,6 +1,6 @@
 # Tech's-Up! (Language School)
 
-<strong>[ HTML / CSS / JAVASCRIPT ] -- </strong> https://josi-lima.github.io/techs-up/
+⚡<strong>[ HTML / CSS / JAVASCRIPT ] -- </strong> https://josi-lima.github.io/techs-up/
 <br><br>
 [:brazil:] Page content - in PORTUGUESE.
 <br><br>
