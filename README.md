@@ -1,4 +1,4 @@
-# Tech's-Up (Language School)
+# Tech's-Up! (Language School)
 
 <strong>[ HTML / CSS / JAVASCRIPT ]</strong>
 <br><br>
